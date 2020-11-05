@@ -53,4 +53,7 @@ int main()
 
     }
     cout << "F = " << F;
+
+    cin.get();
+    return 0;
 }
